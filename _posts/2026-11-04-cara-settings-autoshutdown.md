@@ -4,7 +4,7 @@ title: "Cara bikin Timer auto-shudown"
 date: 2026-11-04
 excerpt: "Membuat fitur Auto-Shutdown di Linux menggunakan Systemd User Service agar laptop mati otomatis setiap hari pukul 22.00 tanpa perlu dimatikan secara manual."
 image: /assets/images/covers/image.png
-cover: /assets/images/covers/cover.png
+cover: /assets/images/covers/image.png
 ---
 
 # Membuat Timer Auto-Shutdown Otomatis Setiap Pukul 22.00 di Linux Menggunakan Systemd
