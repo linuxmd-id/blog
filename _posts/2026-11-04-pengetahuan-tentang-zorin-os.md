@@ -2,7 +2,7 @@
 layout: post
 title: "Pengetahuan Tentang Zorin OS"
 date: 2026-11-04
-excerpt: ""
+excerpt: " Zorin OS adalah distro Linux berbasis Ubuntu LTS yang dirancang agar pengguna Windows dan macOS mudah beralih. Versi terbarunya, Zorin OS 18.1 (April 2026), memakai kernel Linux 6.17, tersedia dalam edisi Core, Education, Lite, dan Pro, serta didukung pembaruan hingga Juni 2029."
 image: /assets/images/covers/Zorin-OS-Background.jpeg
 cover: /assets/images/covers/Zorin-OS-Background.jpeg
 ---
